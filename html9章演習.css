@@ -26,21 +26,21 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(/Users/yuyuuma/Desktop/webcamp1/img/flow01.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .step-img2 {
   height: 150px;
-  background-image: url(/Users/yuyuuma/Desktop/webcamp1/img/flow02.png);
+  background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .step-img3 {
   height: 150px;
-  background-image: url(/Users/yuyuuma/Desktop/webcamp1/img/flow03.png);
+  background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
